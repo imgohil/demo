@@ -42,7 +42,7 @@ public class codex {
 			for(int i=0;i<6;i++) {
 				nop[i]=sc.nextInt();
 			}
-			System.out.print("4:4:8");
+			System.out.print("4:4:08");
 		}
 				
 	}
